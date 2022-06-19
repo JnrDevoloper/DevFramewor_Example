@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a02636f_002Dae50_002D4578_002D9c0a_002D78e71aa808b9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="EntityFrameworkTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::FF772EC3-08F8-468C-9F9F-46C77A918344::.NETFramework,Version=v4.7.2::DevFramework.DataAccess.Tests.EntityFrameworkTests.EntityFrameworkTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::FF772EC3-08F8-468C-9F9F-46C77A918344::.NETFramework,Version=v4.7.2::DevFramework.DataAccess.Tests.NHibernetTest.NHibernateTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F921409E-62AE-4B25-B397-277A42B43B16::.NETFramework,Version=v4.7.2::DevFramework.Northwind.Business.Tests.ProductManagerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::95A83E45-77AD-46FA-9C8E-AE1AE831EC82::.NETFramework,Version=v4.7.2::DevFramework.Northwind.Business.Tests.ProductManagerTest.Product_validation_check&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
